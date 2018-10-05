@@ -1,3 +1,3 @@
 # RepoDemo
 
-This is th readme file for the test project of git and Github.
+This is the readme file for the test project of git and Github.
